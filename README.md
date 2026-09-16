@@ -1,4 +1,5 @@
-# InsureIQ
+# Real-Time Insurance Quoting
+## InsureIQ
 ### AI-Assisted Insurance Quoting and Risk Intelligence Platform
 InsureIQ is a Python and Streamlit based prototype for insurance quoting and risk assessment.
 The idea is to make the quoting process faster by using customer details to estimate medical cost, calculate risk, generate an estimated premium, and suggest a suitable insurance plan.
