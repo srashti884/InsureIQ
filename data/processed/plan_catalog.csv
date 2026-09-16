@@ -1,0 +1,5 @@
+plan_id,plan_name,coverage_amount,base_premium,deductible,outpatient_cover,room_rent_limit
+P001,Basic Care,300000,8500,10000,No,Standard
+P002,Secure Care,500000,12500,7500,Yes,Standard
+P003,Premium Care,1000000,22000,5000,Yes,No Limit
+P004,Elite Care,2000000,35000,2500,Yes,No Limit
